@@ -1,0 +1,10 @@
+@article{REPO330,
+    author = "Wu, Yujie and Zhao, Rong and Zhu, Jun and Chen, Feng and Xu, Mingkun and Li, Guoqi and Song, Sen and Deng, Lei and Wang, Guanrui and Zheng, Hao and others",
+    journal = "Nature Communications",
+    number = "1",
+    pages = "65",
+    publisher = "Nature Publishing Group UK London",
+    title = "{Brain-inspired global-local learning incorporated with neuromorphic computing}",
+    volume = "13",
+    year = "2022"
+}

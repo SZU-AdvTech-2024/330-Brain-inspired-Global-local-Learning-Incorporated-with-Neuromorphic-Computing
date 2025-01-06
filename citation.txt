@@ -3,7 +3,6 @@
     journal = "Nature Communications",
     number = "1",
     pages = "65",
-    publisher = "Nature Publishing Group UK London",
     title = "{Brain-inspired global-local learning incorporated with neuromorphic computing}",
     volume = "13",
     year = "2022"
